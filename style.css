@@ -1,0 +1,256 @@
+.main{
+  border: 2px solid red;
+  padding: 2%;
+  margin: 2%;
+}
+a{
+  word-wrap: break-word;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+}
+.left{
+  border: 2px solid blue;
+  padding: 2%;
+  margin: 2%;
+  border-radius: 10%;
+  text-align: center;
+  width: 30%;
+}
+.right{
+  width: 60%;
+  border-radius: 10%;
+}
+.left img{
+  width: 30%;
+  border-radius: 50%;
+  border: 5px solid green;
+  box-shadow: 12px 20px 18px black;
+}
+.right{
+  border: 2px solid blue;
+  padding: 2%;
+  margin: 2%;
+}
+#number{
+  color: brown;
+  font-size: 40px;
+}
+p{
+  color: brown;
+  font-size: 25px;
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+  .main{
+    border: 2px solid red;
+    padding: 2%;
+    margin: 2%;
+  }
+  a{
+    word-wrap: break-word;
+  }
+  .main{
+    display: flex;
+    flex-direction: column;
+  }
+  .left{
+    border: 2px solid blue;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 10%;
+    text-align: center;
+    width: 90%;
+    background-color: skyblue;
+  }
+  .right{
+    width: 90%;
+    border-radius: 10%;
+    padding: 2%;
+    margin: 2%;
+    background-color: skyblue;
+  }
+  .left img{
+    width: 30%;
+    border-radius: 50%;
+    border: 5px solid green;
+    box-shadow: 12px 20px 18px black;
+  }
+  .right{
+    border: 2px solid blue;
+    padding: 2%;
+    margin: 2%;
+  }
+  #number{
+    color: brown;
+    font-size: 40px;
+  }
+  p{
+    color: brown;
+    font-size: 25px;
+  }
+  .table1{
+    width:90%;
+    overflow-x: auto;
+  }
+  }
+  @media only screen and (min-width:481px) and (max-width:768px){
+    .main{
+      border: 2px solid red;
+      padding: 2%;
+      margin: 2%;
+    }
+    a{
+      word-wrap: break-word;
+    }
+    .main{
+      display: flex;
+      flex-direction: row;
+    }
+    .left{
+      border: 2px solid blue;
+      padding: 2%;
+      margin: 2%;
+      border-radius: 10%;
+      text-align: center;
+      width: 40%;
+      background-color: pink;
+    }
+    .right{
+      width: 40%;
+      border-radius: 10%;
+      padding: 2%;
+      margin: 2%;
+      background-color: pink;
+    }
+    .left img{
+      width: 30%;
+      border-radius: 50%;
+      border: 5px solid green;
+      box-shadow: 12px 20px 18px black;
+    }
+    .right{
+      border: 2px solid blue;
+      padding: 2%;
+      margin: 2%;
+    }
+    #number{
+      color: brown;
+      font-size: 40px;
+    }
+    p{
+      color: brown;
+      font-size: 25px;
+    }
+    .table1{
+      width:90%;
+      overflow-x: auto;
+    }
+  }
+
+  @media only screen and (min-width:769px) and (max-width:1024px){
+    .main{
+      border: 2px solid red;
+      padding: 2%;
+      margin: 2%;
+    }
+    a{
+      word-wrap: break-word;
+    }
+    .main{
+      display: flex;
+      flex-direction: column;
+    }
+    .left{
+      border: 2px solid blue;
+      padding: 2%;
+      margin: 2%;
+      border-radius: 10%;
+      text-align: center;
+      width: 90%;
+      background-color: skyblue;
+    }
+    .right{
+      width: 90%;
+      border-radius: 10%;
+      padding: 2%;
+      margin: 2%;
+      background-color: skyblue;
+    }
+    .left img{
+      width: 30%;
+      border-radius: 50%;
+      border: 5px solid green;
+      box-shadow: 12px 20px 18px black;
+    }
+    .right{
+      border: 2px solid blue;
+      padding: 2%;
+      margin: 2%;
+    }
+    #number{
+      color: brown;
+      font-size: 40px;
+    }
+    p{
+      color: brown;
+      font-size: 25px;
+    }
+    .table1{
+      width:90%;
+      overflow-x: auto;
+    }
+    }
+    @media only screen and (min-width:769px) and (max-width:1024px){
+      .main{
+        border: 2px solid red;
+        padding: 2%;
+        margin: 2%;
+      }
+      a{
+        word-wrap: break-word;
+      }
+      .main{
+        display: flex;
+        flex-direction: row;
+      }
+      .left{
+        border: 2px solid blue;
+        padding: 2%;
+        margin: 2%;
+        border-radius: 10%;
+        text-align: left;
+        width: 40%;
+        background-color: green;
+      }
+      .right{
+        width: 40%;
+        border-radius: 10%;
+        padding: 2%;
+        margin: 2%;
+        background-color: green;
+      }
+      .left img{
+        width: 30%;
+        border-radius: 50%;
+        border: 5px solid green;
+        box-shadow: 12px 20px 18px black;
+      }
+      .right{
+        border: 2px solid blue;
+        padding: 2%;
+        margin: 2%;
+      }
+      #number{
+        color: brown;
+        font-size: 40px;
+      }
+      p{
+        color: brown;
+        font-size: 25px;
+      }
+      .table1{
+        width:90%;
+        overflow-x: auto;
+      }
+  }

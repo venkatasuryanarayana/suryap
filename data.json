@@ -1,0 +1,57 @@
+{
+  "details":{
+    "image":"image.jpg",
+    "name":"surya",
+    "phoneno":"+91-8464032835",
+    "email":"suryanarla54121@gmail.com",
+    "Address":"vignan's nirula college,guntur."
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "qualification":"B.tech",
+      "institute":"vignan's nirula college",
+      "year":"2016-2020",
+      "percentage":"98%"
+    },
+    {
+      "qualification":"Intermediate",
+      "institute":"Sri chaitanya college",
+      "year":"2015-2016",
+      "percentage":"99%"
+    },
+    {
+      "qualification":"SSC",
+      "institute":"Narayana college",
+      "year":"2014",
+      "percentage":"96%"
+    }
+  ],
+  "skills":[{
+    "title":"Programming languages",
+    "info":["c","java","c++","python","R"]
+  },
+  {
+    "title":"Database",
+    "info":["sql","mysql","oracle"]
+  },
+  {
+    "title":"Operating systems",
+    "info":["windows","linux","ubuntu","mac"]
+  }
+
+],
+"achievemnts":[
+  {
+    "title":"got certified in IOT"
+  },
+  {
+    "title":"got certified in MOC"
+  },
+  {
+    "title":"got certified by jkc"
+  }
+]
+}
